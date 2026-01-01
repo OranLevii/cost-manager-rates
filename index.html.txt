@@ -1,0 +1,7 @@
+@'
+<!doctype html>
+<html>
+  <head><meta charset="utf-8"><title>Rates</title></head>
+  <body>Rates JSON: <a href="./rates.json">rates.json</a></body>
+</html>
+'@ | Set-Content -Encoding UTF8 index.html
